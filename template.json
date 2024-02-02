@@ -1,0 +1,15 @@
+{
+  "contact": "@sudoker0 on Discord",
+  "templates": [
+    {
+      "name": "Linux mascot",
+      "sources": [
+        "https://raw.githubusercontent.com/sudoker0/bp-repo/main/linux.png"
+      ],
+      "x": 128,
+      "y": 32
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
