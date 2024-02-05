@@ -1,0 +1,16 @@
+{
+    "contact": "@foonigy on Discord",
+    "templates": [
+      {
+        "name": "Graditon",
+        "sources": [
+          "https://raw.githubusercontent.com/sudoker0/bp-repo/main/graditon-faction/graditon.png"
+        ],
+        "x": 65,
+        "y": 143
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
+  
