@@ -49,6 +49,10 @@
         {
             "name": "Graditon",
             "url": "https://raw.githubusercontent.com/sudoker0/bp-repo/main/graditon-faction/template.json"
+        },
+        {
+            "name": "Bandit and Chilli!",
+            "url": "https://rentry.co/banditandchilli/raw"
         }
     ],
     "blacklist": []
