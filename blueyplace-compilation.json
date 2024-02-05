@@ -3,19 +3,19 @@
     "templates": [],
     "whitelist": [
         {
-            "name": "The Faction of Hoenn",
+            "name": "The Faction of Hoenn-1",
             "url": "https://rentry.co/47g92ycv/raw"
+        },
+		{
+            "name": "The Faction of Hoenn-2",
+            "url": "https://rentry.co/rayquazaplace/raw"
         },
         {
             "name": "VOID HIGHR",
             "url": "https://rentry.co/highrinplace/raw"
         },
-        {
-            "name": "Buddy's team-1",
-            "url": "https://rentry.co/rayquazaplace/raw"
-        },
 		{
-            "name": "Buddy's team-2",
+            "name": "Buddy's team",
             "url": "https://rentry.co/Buddyteam/raw"
         },
         {
