@@ -1,0 +1,55 @@
+{
+    "contact": "BlueyPlace (@sudoker0 for updating the templates)",
+    "templates": [],
+    "whitelist": [
+        {
+            "name": "The Faction of Hoenn",
+            "url": "https://rentry.co/47g92ycv/raw"
+        },
+        {
+            "name": "VOID HIGHR",
+            "url": "https://rentry.co/highrinplace/raw"
+        },
+        {
+            "name": "Buddy's team",
+            "url": "https://rentry.co/Buddyteam/raw"
+        },
+        {
+            "name": "Bluey Game Faction",
+            "url": "https://rentry.co/x9rmn4pp/raw"
+        },
+        {
+            "name": "Bingus faction",
+            "url": "https://rentry.co/sleepybingo/raw"
+        },
+        {
+            "name": "bandit staring at you faction",
+            "url": "https://rentry.co/52cvhqm7/raw"
+        },
+        {
+            "name": "Radiohead Faction",
+            "url": "https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/Radiohead.json"
+        },
+        {
+            "name": "Womp Womp",
+            "url": "https://rentry.co/WompWompBozo/raw"
+        },
+        {
+            "name": "Linux Tux mascot",
+            "url": "https://raw.githubusercontent.com/sudoker0/bp-repo/main/template.json"
+        },
+        {
+            "name": "Jetpack Bingoers",
+            "url": "https://file.garden/YZHmQPtBp0P7hcyn/rplace_templates/jetpack_bingo.json"
+        },
+        {
+            "name": "REMEMBER I'LL ALWAYS BE HERE FO…",
+            "url": "https://rentry.co/sleepytimepixels/raw"
+        },
+        {
+            "name": "Graditon",
+            "url": "https://raw.githubusercontent.com/sudoker0/bp-repo/main/graditon-faction/template.json"
+        }
+    ],
+    "blacklist": []
+}
