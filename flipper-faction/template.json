@@ -1,0 +1,15 @@
+{
+    "contact": "@oscar_the_bluey_oc on Discord",
+    "templates": [
+      {
+        "name": "Flipper Zero",
+        "sources": [
+          "https://raw.githubusercontent.com/sudoker0/bp-repo/main/flipper-faction/flipper.png"
+        ],
+        "x": 128,
+        "y": 380
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
