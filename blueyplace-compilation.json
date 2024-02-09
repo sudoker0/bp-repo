@@ -1,5 +1,5 @@
 {
-    "contact": "BlueyPlace (@sudoker0 for updating the templates list)",
+    "contact": "BlueyPlace",
     "templates": [],
     "whitelist": [
         {
@@ -63,12 +63,28 @@
             "url": "https://rentry.co/banditandchilli/raw"
         },
         {
+            "name": "Chimata Tenkyuu for Touhou Project",
+            "url": "https://rentry.co/chimatatenkyuupixel"
+        },
+        {
+            "name": "Smiley Bingus Faction",
+            "url": "https://rentry.co/highr/raw"
+        },
+        {
+            "name": "Example Faction (READ THIS FIRST)",
+            "url": "https://raw.githubusercontent.com/jalenluorion/blueyplace2023/main/bluey.json"
+        },
+        {
             "name": "[unknown-1]",
             "url": "https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/amogus.json"
         },
         {
-            "name": "Chimata Tenkyuu for Touhou Project",
-            "url": "https://rentry.co/chimatatenkyuupixel"
+            "name": "[unknown-2]",
+            "url": "https://rentry.co/sleepybingo2/raw"
+        },
+        {
+            "name": "[unknown-3]",
+            "url": "https://rentry.co/Skyepawpatrol/raw"
         }
     ],
     "blacklist": []
