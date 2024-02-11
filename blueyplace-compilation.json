@@ -10,10 +10,6 @@
             "name": "The Faction of Hoenn-2",
             "url": "https://rentry.co/rayquazaplace/raw"
         },
-        {
-            "name": "VOID HIGHR",
-            "url": "https://rentry.co/highrinplace/raw"
-        },
 		{
             "name": "Buddy's team",
             "url": "https://rentry.co/Buddyteam/raw"
@@ -23,8 +19,12 @@
             "url": "https://rentry.co/x9rmn4pp/raw"
         },
         {
-            "name": "Bingus faction",
+            "name": "Bingus faction-1",
             "url": "https://rentry.co/sleepybingo/raw"
+        },
+        {
+            "name": "Bingus faction-2",
+            "url": " https://rentry.co/highr/raw"
         },
         {
             "name": "bandit staring at you faction",
@@ -64,7 +64,7 @@
         },
         {
             "name": "Smiley Bingus Faction",
-            "url": "https://rentry.co/highr/raw"
+            "url": "https://rentry.co/SmileyBingus/raw"
         },
         {
             "name": "Example Faction (READ THIS FIRST)",
