@@ -1,0 +1,15 @@
+{
+    "contact": "@theheroofdeath on Discord",
+    "templates": [
+      {
+        "name": "Garland",
+        "sources": [
+          "https://raw.githubusercontent.com/sudoker0/bp-repo/main/garland-faction/garland.png"
+        ],
+        "x": 51,
+        "y": 143
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
