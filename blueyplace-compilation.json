@@ -101,6 +101,10 @@
         {
             "name": "[unknown-4]",
             "url": "https://raw.githubusercontent.com/sudoker0/bp-repo/main/unknown-4-faction/template.json"
+        },
+        {
+            "name": "[unknown-5]",
+            "url": "https://raw.githubusercontent.com/sudoker0/bp-repo/main/garland-faction/template.json"
         }
     ],
     "blacklist": []
